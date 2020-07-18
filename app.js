@@ -18,7 +18,13 @@ let persona3 = {
         edad:21,
 }
 
-let personas = [ persona1, persona2 , persona3 ]
+let persona4 = {
+
+        nombre:'Miguel',
+        edad:45,
+}
+
+let personas = [ persona1, persona2 , persona3, persona4 ]
  
 
 for (let i = 0; i < personas.length; i++) {     
